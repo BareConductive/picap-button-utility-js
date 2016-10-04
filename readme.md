@@ -20,7 +20,7 @@ Example button code (and useful command line utility) for the  [Bare Conductive 
 
     Maps three different PiCap button events to system calls - MUST be run as root.
     
-    Usage: button-utility [OPTION]
+    Usage: node button-utility.js [OPTION]
     
     By default single press    echoes "Hello World!"
                double press    restarts
